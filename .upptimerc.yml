@@ -16,7 +16,7 @@ status-website:
   name: Severn Bronies
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
