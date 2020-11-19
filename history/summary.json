@@ -1,42 +1,34 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Severn Bronies website",
+    "url": "https://severnbronies.co.uk",
+    "slug": "severn-bronies-website",
     "status": "up",
     "uptime": "100.00",
-    "time": 75
+    "time": 1745
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Blog",
+    "url": "https://blog.severnbronies.co.uk",
+    "slug": "blog",
     "status": "up",
     "uptime": "100.00",
-    "time": 117
+    "time": 698
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "URL shortener",
+    "url": "https://svrnbrn.es",
+    "slug": "url-shortener",
     "status": "up",
     "uptime": "100.00",
-    "time": 123
+    "time": 1857
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
+    "name": "Minecraft server",
+    "url": "https://mc.severnbronies.co.uk",
+    "slug": "minecraft-server",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 0
+    "time": 806
   }
 ]
