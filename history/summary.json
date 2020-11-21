@@ -5,7 +5,7 @@
     "slug": "severn-bronies-website",
     "status": "up",
     "uptime": "100.00",
-    "time": 1850
+    "time": 1885
   },
   {
     "name": "Blog",
@@ -13,7 +13,7 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00",
-    "time": 877
+    "time": 886
   },
   {
     "name": "URL shortener",
@@ -21,7 +21,7 @@
     "slug": "url-shortener",
     "status": "up",
     "uptime": "100.00",
-    "time": 2133
+    "time": 2124
   },
   {
     "name": "Minecraft server",
@@ -29,6 +29,6 @@
     "slug": "minecraft-server",
     "status": "up",
     "uptime": "100.00",
-    "time": 665
+    "time": 669
   }
 ]
