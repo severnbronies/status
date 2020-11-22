@@ -1,7 +1,7 @@
 - url: https://severnbronies.co.uk
-- status: down
-- code: 500
-- responseTime: 1115
-- lastUpdated: 2020-11-22T02:30:33.380Z
+- status: up
+- code: 200
+- responseTime: 1951
+- lastUpdated: 2020-11-22T02:38:07.508Z
 - startTime: 2020-11-19T08:42:15.654Z
 - generator: Upptime <https://github.com/upptime/upptime>
