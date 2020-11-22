@@ -1,7 +1,7 @@
 - url: https://svrnbrn.es
-- status: down
-- code: 500
-- responseTime: 1206
-- lastUpdated: 2020-11-22T02:30:37.835Z
+- status: up
+- code: 200
+- responseTime: 2010
+- lastUpdated: 2020-11-22T02:38:12.396Z
 - startTime: 2020-11-19T08:42:19.385Z
 - generator: Upptime <https://github.com/upptime/upptime>
