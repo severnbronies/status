@@ -3,8 +3,8 @@
     "name": "Severn Bronies website",
     "url": "https://severnbronies.co.uk",
     "slug": "severn-bronies-website",
-    "status": "down",
-    "uptime": "99.85%",
+    "status": "up",
+    "uptime": "99.71%",
     "time": 1745
   },
   {
@@ -19,9 +19,9 @@
     "name": "URL shortener",
     "url": "https://svrnbrn.es",
     "slug": "url-shortener",
-    "status": "down",
-    "uptime": "99.41%",
-    "time": 1898
+    "status": "up",
+    "uptime": "99.27%",
+    "time": 1904
   },
   {
     "name": "Minecraft server",
