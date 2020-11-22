@@ -3,32 +3,32 @@
     "name": "Severn Bronies website",
     "url": "https://severnbronies.co.uk",
     "slug": "severn-bronies-website",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 1824
+    "status": "down",
+    "uptime": "99.85%",
+    "time": 1745
   },
   {
     "name": "Blog",
     "url": "https://blog.severnbronies.co.uk",
     "slug": "blog",
     "status": "up",
-    "uptime": "100.00",
+    "uptime": "100.00%",
     "time": 912
   },
   {
     "name": "URL shortener",
     "url": "https://svrnbrn.es",
     "slug": "url-shortener",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 1955
+    "status": "down",
+    "uptime": "99.41%",
+    "time": 1898
   },
   {
     "name": "Minecraft server",
     "url": "https://mc.severnbronies.co.uk",
     "slug": "minecraft-server",
     "status": "up",
-    "uptime": "100.00",
+    "uptime": "100.00%",
     "time": 676
   }
 ]
