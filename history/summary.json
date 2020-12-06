@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1830,
-    "timeDay": 1698,
-    "timeWeek": 1914,
-    "timeMonth": 1830,
-    "timeYear": 1830
+    "time": 1824,
+    "timeDay": 1694,
+    "timeWeek": 1877,
+    "timeMonth": 1824,
+    "timeYear": 1824
   },
   {
     "name": "Blog",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 877,
-    "timeDay": 309,
-    "timeWeek": 804,
-    "timeMonth": 877,
-    "timeYear": 877
+    "time": 858,
+    "timeDay": 485,
+    "timeWeek": 745,
+    "timeMonth": 858,
+    "timeYear": 858
   },
   {
     "name": "URL shortener",
@@ -41,11 +41,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.73%",
-    "time": 2024,
-    "timeDay": 1680,
-    "timeWeek": 2109,
-    "timeMonth": 2024,
-    "timeYear": 2024
+    "time": 2021,
+    "timeDay": 1722,
+    "timeWeek": 2091,
+    "timeMonth": 2021,
+    "timeYear": 2021
   },
   {
     "name": "Minecraft server",
@@ -57,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 719,
-    "timeDay": 494,
-    "timeWeek": 752,
-    "timeMonth": 719,
-    "timeYear": 719
+    "time": 706,
+    "timeDay": 448,
+    "timeWeek": 700,
+    "timeMonth": 706,
+    "timeYear": 706
   }
 ]
