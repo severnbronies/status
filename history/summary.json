@@ -2,22 +2,28 @@
   {
     "name": "Severn Bronies website",
     "url": "https://severnbronies.co.uk",
+    "icon": "https://favicons.githubusercontent.com/severnbronies.co.uk",
     "slug": "severn-bronies-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1828,
-    "timeDay": 1917,
-    "timeWeek": 1870,
-    "timeMonth": 1828,
-    "timeYear": 1828
+    "time": 1786,
+    "timeDay": 1312,
+    "timeWeek": 1724,
+    "timeMonth": 1786,
+    "timeYear": 1786,
+    "dailyMinutesDown": {
+      "2020-12-07": 0,
+      "2020-11-22": 15
+    }
   },
   {
     "name": "Blog",
     "url": "https://blog.severnbronies.co.uk",
+    "icon": "https://favicons.githubusercontent.com/blog.severnbronies.co.uk",
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
@@ -29,27 +35,36 @@
     "timeDay": 865,
     "timeWeek": 723,
     "timeMonth": 859,
-    "timeYear": 859
+    "timeYear": 859,
+    "dailyMinutesDown": {}
   },
   {
     "name": "URL shortener",
     "url": "https://svrnbrn.es",
+    "icon": "https://favicons.githubusercontent.com/svrnbrn.es",
     "slug": "url-shortener",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 2025,
-    "timeDay": 2151,
-    "timeWeek": 1885,
-    "timeMonth": 2025,
-    "timeYear": 2025
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 1992,
+    "timeDay": 1531,
+    "timeWeek": 1804,
+    "timeMonth": 1992,
+    "timeYear": 1992,
+    "dailyMinutesDown": {
+      "2020-12-07": 0,
+      "2020-12-05": 14,
+      "2020-12-03": 13,
+      "2020-11-22": 37
+    }
   },
   {
     "name": "Minecraft server",
     "url": "https://mc.severnbronies.co.uk",
+    "icon": "https://favicons.githubusercontent.com/mc.severnbronies.co.uk",
     "slug": "minecraft-server",
     "status": "up",
     "uptime": "100.00%",
@@ -61,6 +76,7 @@
     "timeDay": 680,
     "timeWeek": 691,
     "timeMonth": 705,
-    "timeYear": 705
+    "timeYear": 705,
+    "dailyMinutesDown": {}
   }
 ]
