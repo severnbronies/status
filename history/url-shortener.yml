@@ -1,7 +1,7 @@
 url: https://svrnbrn.es  
-status: up
-code: 200
-responseTime: 2230
-lastUpdated: 2020-12-14T23:08:31.450Z
+status: down
+code: 502
+responseTime: 1088
+lastUpdated: 2020-12-15T03:54:45.660Z
 startTime: Thu Nov 19 2020 08:42:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
