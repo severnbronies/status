@@ -8,8 +8,6 @@ sites:
     url: https://blog.severnbronies.co.uk
   - name: URL shortener
     url: https://svrnbrn.es
-  - name: Minecraft server
-    url: https://mc.severnbronies.co.uk
 
 status-website:
   baseUrl: /status
