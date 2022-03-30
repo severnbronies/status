@@ -4,18 +4,19 @@
     "url": "https://severnbronies.co.uk",
     "icon": "https://favicons.githubusercontent.com/severnbronies.co.uk",
     "slug": "severn-bronies-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1461,
-    "timeDay": 1770,
-    "timeWeek": 1435,
-    "timeMonth": 1453,
+    "time": 1462,
+    "timeDay": 0,
+    "timeWeek": 1424,
+    "timeMonth": 1454,
     "timeYear": 1433,
     "dailyMinutesDown": {
+      "2022-03-30": 0,
       "2021-09-22": 25,
       "2021-05-06": 64
     }
@@ -32,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 687,
-    "timeDay": 982,
-    "timeWeek": 1638,
-    "timeMonth": 952,
-    "timeYear": 672,
+    "timeDay": 342,
+    "timeWeek": 1630,
+    "timeMonth": 945,
+    "timeYear": 671,
     "dailyMinutesDown": {
       "2021-09-05": 24
     }
@@ -51,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1614,
-    "timeDay": 1836,
-    "timeWeek": 1565,
-    "timeMonth": 1586,
-    "timeYear": 1585,
+    "time": 1630,
+    "timeDay": 10285,
+    "timeWeek": 2836,
+    "timeMonth": 1879,
+    "timeYear": 1609,
     "dailyMinutesDown": {}
   }
 ]
