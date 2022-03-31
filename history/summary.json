@@ -6,9 +6,9 @@
     "slug": "severn-bronies-website",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1459,
     "timeDay": 1324,
@@ -16,7 +16,6 @@
     "timeMonth": 1449,
     "timeYear": 1431,
     "dailyMinutesDown": {
-      "2022-03-30": 13,
       "2021-09-22": 25,
       "2021-05-06": 64
     }
@@ -35,7 +34,7 @@
     "time": 687,
     "timeDay": 342,
     "timeWeek": 1630,
-    "timeMonth": 945,
+    "timeMonth": 933,
     "timeYear": 670,
     "dailyMinutesDown": {
       "2021-09-05": 24
@@ -55,7 +54,7 @@
     "time": 1630,
     "timeDay": 10285,
     "timeWeek": 2836,
-    "timeMonth": 1879,
+    "timeMonth": 1867,
     "timeYear": 1608,
     "dailyMinutesDown": {}
   }
