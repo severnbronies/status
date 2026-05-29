@@ -32,10 +32,10 @@
     "slug": "blog",
     "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "85.06%",
-    "uptimeMonth": "94.63%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "84.79%",
+    "uptimeMonth": "94.57%",
+    "uptimeYear": "99.52%",
     "time": 874,
     "timeDay": 516,
     "timeWeek": 503,
@@ -55,7 +55,7 @@
       "2026-05-25": 195,
       "2026-05-26": 375,
       "2026-05-27": 359,
-      "2026-05-29": 0
+      "2026-05-29": 27
     }
   },
   {
