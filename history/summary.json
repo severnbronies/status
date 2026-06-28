@@ -30,17 +30,17 @@
     "url": "https://blog.severnbronies.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/blog.severnbronies.co.uk.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "57.46%",
+    "uptimeDay": "56.24%",
     "uptimeWeek": "75.22%",
-    "uptimeMonth": "73.59%",
-    "uptimeYear": "97.33%",
+    "uptimeMonth": "73.36%",
+    "uptimeYear": "97.31%",
     "time": 798,
-    "timeDay": 312,
-    "timeWeek": 429,
-    "timeMonth": 451,
-    "timeYear": 705,
+    "timeDay": 317,
+    "timeWeek": 423,
+    "timeMonth": 449,
+    "timeYear": 704,
     "dailyMinutesDown": {
       "2026-03-04": 53,
       "2026-03-31": 84,
@@ -84,7 +84,7 @@
       "2026-06-25": 352,
       "2026-06-26": 337,
       "2026-06-27": 345,
-      "2026-06-28": 267
+      "2026-06-28": 367
     }
   },
   {
