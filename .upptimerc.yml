@@ -4,8 +4,6 @@ repo: status
 sites:
   - name: Severn Bronies website
     url: https://severnbronies.co.uk
-  - name: Blog
-    url: https://blog.severnbronies.co.uk
   - name: URL shortener
     url: https://svrnbrn.es
 
